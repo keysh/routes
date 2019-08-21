@@ -1,0 +1,8 @@
+[package]
+name = "routes"
+version = "0.1.0"
+authors = ["Jakub Leško <jakub.lesko@o2.sk>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
